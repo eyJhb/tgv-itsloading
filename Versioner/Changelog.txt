@@ -1,0 +1,32 @@
+Current in progress version - 0.0.13
+0.0.13
+ - Dumhedsfejl med et billede....
+0.0.12
+ - Fået ikoner (16, 48, 128).
+ - Rettet en fejl, som gjorde at et billede på login siden ikke blev ændret.
+
+0.0.11
+ - Bedre måde at detect domæne.
+ - Klar til det nye "skolenet" (http://aarhustech.dk/elev)
+
+0.0.10
+ - Sneeeeeee (kun på login siden)
+ - Forkert logo der blev vist når man er logget ind. Skal ikke være holliday.
+
+0.0.9
+ - Fixede en fejl som gjorde, at der ikke var It's Loading logo nede i venstre hjørne når logget ind.
+
+0.0.8
+ - Fixede en fejl som gjorde, at hvis man klikkede direkte på mapper, åbnede de i nyt vindue.
+
+0.0.6
+ - Ordnet en fejl fra It's Learnings side, som gjorde at man ikke kunne åbne eksterne links.
+
+0.0.5
+ - Tilføjet halloween banner på forsiden mellem den 27-10-2014 og 02-11-2014
+
+0.0.4
+ - Tilføjet Jule banner på forsiden mellem den 01-12-2014 og 26-12-2014
+ - Fixede en fejl på de domæner scriptet skal køre på (kun Aarhustech)
+ - Opdateret en fejl, hvor at alle titler blev rettet til "itsloading..."
+ - Fjerende noget debug kode
